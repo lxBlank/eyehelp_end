@@ -116,7 +116,7 @@ export default{
         },
         speak(){
             var that = this
-            console.log('说话了abcd')
+            console.log('说话了abcde')
             $.ajax({
                 //url
                 url: communityAudio,
