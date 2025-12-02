@@ -39,6 +39,7 @@ export default {
     showWordLimit: {
       default: true,
     },
+    // 哈哈哈
     disabled: {
       type: Boolean,
       default: false,
