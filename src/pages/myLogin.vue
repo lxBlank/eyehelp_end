@@ -49,7 +49,7 @@ export default {
           that.bfunc()
       },
       //超时时间
-      timeout: 2000,
+      timeout: 3000,
       //失败的回调
       error: function () {
         alert('Login error')
