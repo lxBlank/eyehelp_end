@@ -29,7 +29,7 @@
       if (
         // 判断当前点击的元素类名，是否包含排除元素
         new Set(concatArr).size === concatArr.length &&
-        !ele.contains(e.target)
+        !elarget)
       ) {
 
           //dsijjjf9j9jjjj
