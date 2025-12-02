@@ -11,6 +11,7 @@
                 </audio>
              </div>
          </div>
+<!--       我不会vue-->
          <div class="mcol">
              <div class="mcard" @click="myClike(2)">
                  <div class="img"><img class="iimg" src="../assets/phraseImg/045-mother.png"></div>
