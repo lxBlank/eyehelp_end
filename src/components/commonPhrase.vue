@@ -4,7 +4,8 @@
      <div class="mrow">
          <div class="mcol">
              <div class="mcard" @click="myClike(1)">
-                 <div clatn">爸爸</div>
+                 <div class="img"><img class="iimg" src="../assets/phraseImg/004-father.png"></div>
+                 <div class="btn">爸爸</div>
                  <audio id="bgMusic1">
                     <source src="../assets/audio/father.mp3" type="audio/mp3">
                 </audio>
