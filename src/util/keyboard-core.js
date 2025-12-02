@@ -31,6 +31,8 @@
         new Set(concatArr).size === concatArr.length &&
         !ele.contains(e.target)
       ) {
+
+          //dsijjjf9j9jjjj
         flag = true;
       }
     });
