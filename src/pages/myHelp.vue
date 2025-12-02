@@ -160,6 +160,7 @@
      display: flex;
      height: 112px;
      margin-top: 5px;
+   //asd
  }
  .mcol{
     
